@@ -1,0 +1,144 @@
+{
+	"name": "Basic Intervals",
+	"info": "This is a deck containing the fundamental two-note intervals of the chromatic scale",
+	"cards": [
+		{
+			"name": "Semitone / Minor Second (rare.)",
+			"pattern": "7 8",
+			"notes": "
+				Dissonant interval.
+				The interval of semitone occurs twice within the major scale, i.e, at 3-4, and 7-8 scale degrees respectively.
+				These tones in particular have a 'rising tendency' and tend to rise to the subdominant and the tonic respectively, and are thus known as leading tones.
+				Introduction non-diatonic leading tones through secondary dominants is key to tonicization of related key areas, highlighting the importance of the ascending semitone interval.
+				Tones falling by chromatic descent (half-step) are also not uncommon. The simplest case is that of the Neapolitan chord (IIb) in minor mode, which contains a '2b' which falls to '1'.
+				Further examples of falling semitones can be found in augmented sixth chords wherein, the augmented interval [4# 6b] expands to [5 5].
+				The requirement of semitone ascent in cadences makes this interval vital in Classical Music.
+				See Chopin 'Wrong note' Etude for a colourful use of semitones.
+				"
+		},
+		{
+			"name": "Unison",
+			"pattern": "1 1",
+			"notes": "
+				Perfect Consonant interval. The most consonant there can be.
+				Perfect consonances must always be approached via contrary or oblique motion during voice leading, in order to prevent parallel motion which would otherwise destroy the notion of independence of the voices in a contrapunctal or polyphonic setting. However, it is notable that during the medieval age, some perfect consonances such as 4ths and 5ths would be used in parallel. This is due to the absence of thirds, leaving 5ths, and inverted 5ths (4ths, when inverted at the octave) as the only interval sufficiently less consonant than unison (and inverted unison) for the purposes of voice leading.
+			"
+		},
+		{
+			"name": "Octave",
+			"pattern": "1 8",
+			"notes": "
+				Perfect consonance.
+				In the hierarchy of consonances, the unison is obviously at the apex as two voices singing at the same pitch are as consonant as they can be.
+				However, the octave tails the unison closely, since voices singing the same tone at different registers (i.e, the ratio of pitches is a power of 2) are almost as consonant as they can be. The interval of octave is particularly useful in orchestration as the different timbres of various instruments can be used to produce a rich sound when used in loud tutti passages where octave doubling is necessitated by disjoint natural registers of various instruments.
+				Furthermore, parallel motion of octaves can often be used to enhance a melodic line (when the independence and seperation are not of concern), as evinced in numerous works from Classical and Romantic periods. Even in an instrumental and contrapunctal setting, parallel motion in octaves is justifiable when it is used to emphasize a certain voice, as in the final fugue of Beethoven's Hammerklavier sonata, where the bass is similarly 'doubled' to emphasize the entry (m. 79). Melodically, the interval of octave is useful in ornamentation, whereby octave leaps can be included via grace notes or 'bells' can be added by diminution of note values in unison and expanding the unisons into octaves.
+				See Chopin Piano Sonata No. 2 in B-flat minor, Mvt. 4, written entirely in parallel octaves.
+				See Mozart Piano Concert No. 9 in E-flat major, Mvt. 2, featuring grace notes that leap in octaves.
+			"
+		},
+		{
+			"name": "Major Second / Diminished Third (rare.)",
+			"pattern": "1 2",
+			"notes": "Dissonant interval."
+		},
+		{
+			"name": "Major Third / Diminished Fourth (rare.)",
+			"pattern": "1 3",
+			"notes": "
+				Imperfect consonance.
+				Thirds and sixths were suitable for use in instrumental works in fauxbordon sections or in general countrapunctal sections.
+				Since thirds are imperfect consonances, they can occasionally be used to lead voices in parallel motion.
+				Some composers also organized key areas in their pieces by thirds. 
+				See 'Hammerklavier' Sonata, Mvt. 1 in B-flat major by Beethoven.
+			"
+		},
+		{
+			"name": "Minor Third",
+			"pattern": "1 3b",
+			"notes": "
+				Imperfect consonance.
+				Thirds and sixths were suitable for use in instrumental works in fauxbordon sections or in general countrapunctal sections.
+				Since thirds are imperfect consonances, they can occasionally be used to lead voices in parallel motion.
+				Melodic motion in intervals of thirds was also important. A popular example is that of Brahms Symphony No. 4, wherein the main theme is comprised of a sequence of descending thirds staggered and altered to generate a poignant melody, with the descending thirds remaining a recurring motif in all movements.
+				See Brahms Symphony No.4 in E minor, Mvt. 1
+			"	
+		},
+		{
+			"name": "Perfect Fourth",
+			"pattern": "1 4",
+			"notes": 
+			"
+				Stylistic dissonance, but sensory consonance.
+				Perfect fourths are of great importance as they are obtained from perfect fifths when inverted at the octave.
+				Descending perfect fourths form one of the stock gallant schemata known as the 'Romanesca'. Beethoven believed 4ths to be perfect consonances.
+				Bass lines formed by diminution of a sequence of perfect fourths staggered in (4-5-4-5) pattern and subsequently harmonized with diatonic 6/5 chords results in descending circle-of-fifths progression which may be used to smoothly modulate between related keys by introducing the target key area's leading tone and forming a dominant 7th chord or a dominant chord with 7th suspended.
+			"
+		},
+		{
+			"name": "Perfect Fifth",
+			"pattern": "1 5",
+			"notes": 
+			"
+				Perfect consonance. Approached via contrary motion in most contexts to avoid parallel fifths.
+				Parallel fifths are generally discouraged due to them subjectively resulting in awkward voice leading which could greatly be improved by its omission.
+				Validity of parallel fifths in a strictly classical context is much contrived, and is brilliantly outlined by Brahms in the essay 'Octaven und Quinten'.
+				One possible justification for parallel fifths lie in tutti passages having parallel moving voices filling out complete triads with 5th doubled.
+				Mozart fifths, which occur due to a non-standard resolution of the German sixth chord, are considered acceptable by modern theorists.
+				Impressionist composers targeted the interval of the perfect fifth specifically to explore a tone-colour that had largely been absent.
+				Indeed, in modern contexts, parallel harmony is yet another tool at the composer's disposal to bring out a particular colour and type of sound.
+			"
+		},
+		{
+			"name": "Tritone / Augmented Fourth / Diminished Fifth",
+			"pattern": "4 7",
+			"notes":
+			"
+				Dissonant interval. Occurs in major mode between the subdominant and the leading tone.
+				The presence of tritone in Dominant 7th chord enhances the cadential strength, and results in a strong closure upon resolution to the tonic.
+				In the context of tonal voice leading, melodic leaps of the interval of tritone or an augmented 4th is highly disfavoured as in general augmented intervals must be avoided. Coversely, in a different context one may wish to suspend tonality entirely, and write a piece of music that diverges away from it; in such cases 'non-sensical', i.e, unrelated tritones may be used to dull the listener's sense of tonality. It is important to realize that the intervals of diminished 5th and augmented 4th, although of same size are distinguished in analysis. The tritone comprises of exactly 6 semitones and divides the chromatic scale in half. A musical scale containing the interval of tritone, is called tritonic, otherwise it is atritonic. In the context of tonal voice leading in free composition, the interval of tritone is an essential dissonance, which although unprepared, must resolve by step in contrary motion and must imply the harmony of a dominant 7th chord. The technique of tritone substitution is particularly important in jazz. As the presence of tritone in the dominant 7th contributes significantly to listener's perception of tonality and closure upon resolution, an alternative dominanth-7th chord containing the same tritone may serve as a replacement for the dominant-7th chord built on scale degree 5. Consider the tritone [B-F], since the dominant-7th chord is a major chord with a '7b', either B or F must be the '7b', if F is the '7b' then the 'F#' is 7th to the root, hence the chord will be G7 (the 'traditional' diatonic chord). However, is B if the '7b' of the chord, then 'C' is 7th to the root, so 'C#7' is alternative dominant 7th chord that may be used. It is clear that C# and G are a tritone apart, hence the name tritone substitution. In the scale of C major, this is simply a dominant 7th chord built on '2b'. In classical contexts these chords appear as augmented sixths. Consider the German Sixth in the key of C, [C Eb Ab F#], if re-spelled enharmonically, [B# D# G# F#] which is the G#7 chord; however, in classical contexts the augmented sixth chords largely serve a pre-dominant function. Indeed, one may believe that these chords were fashioned in a similar manner as an alternative to the secondary dominant 7th of the supertonic (which is 'V of V'). It is noteworthy, that the diminished 7th chord built on scale degree 7 serves a dominant function in root position, and may be exploited either as an alternative to the dominant, or as a predominant when built on '4#'.
+			"
+		},
+		{
+			"name": "Augmented 5th / Minor Sixth",
+			"pattern": "6 11",
+			"notes":
+			"
+				The most common instance of occurence of augmented fifths are as the interval formed between the third scale degree and leading tone in harmonic minor mode, where by the previous 3rd and 7th scale degrees (3b and 7b) that formed a perfect fifth is now augmented as the 7th scale degree of the natural minor mode is raised to provide a suitable leading tone, which resolves by semitone ascent to the tonic. When used in minor mode, the augmented 5th is perceived as its enharmonic equivalent the minor sixth. Non-diatonic augmented fifths are dissonant, unless they are used in minor mode, where they are perceived as minor sixths. The interval between scale degrees 1 and 6 in natural minor is the minor sixth. Minor sixths are imperfect consonances that invert to major thirds when inverted at the octave, and vice versa.
+			"
+		},
+		{
+			"name": "Major Sixth / Diminished Seventh",
+			"pattern": "1 6",
+			"notes":
+			"
+				Imperfect consonance.
+				Major sixths invert to minor thirds.
+				Sixths are suitable for fauxbordon harmonization in 6/4 chords.
+			"
+		},
+		{
+			"name": "Augmented Sixth / Minor Seventh",
+			"pattern": "6b 11#",
+			"notes":
+			"
+				In the classical context, the interval of augmented sixth is most often encountered via augmented sixth chords which serve a pre-dominant harmonic function.
+				The interval of augmented sixth in key of C major can be formed by taking the minor sixth between the scale degrees 6 and 11 and expanding in either direction by semitone. The lowered sixth degree in C major is diatonic in the key of C minor. The German Sixth, is formed naturally by adding the augmented sixth 'F#' over the 6/3 Ab major chord. There are other sixth chords such as the Italian and French sixth, both of which contain the tones '6b 1 4#'. The Italian sixth doubles the tonic, while the French adds the supertonic.
+
+				The augmented sixth is enharmonically equivalent to the minor seventh. The Minor Seventh occurs prominently in the dominant 7th chord as the interval '5 11' (in V7). Minor sevenths invert to major seconds, and vice versa. 
+			"
+		},
+		{
+			"name": "Major Seventh",
+			"pattern": "1 7",
+			"notes":
+			"
+				Dissonant interval. Major sevenths invert to semitones, and vice versa when inverted at the octave. 
+				In the hierarchy of dissonances, the major seventh closely tails the minor second, and thus its raw use is rather rare in the context of classical music.
+				When dissonances need to be used for a dramatic effect, the major second is a tool that may be used.
+				Major sevenths are common occurances in jazz and 20th century music, where its sound is considered 'sweet' and 'cool'.
+				See opening measures of Gavotte in Bach's Partita in E major for solo Violin.
+				See Erik Satie Gymnopedie No. 1 in D major.
+			"
+		}
+	]
+}
