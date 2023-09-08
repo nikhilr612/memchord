@@ -1,10 +1,9 @@
 from cardview_window import Ui_MainWindow
 from settings_dialog import Ui_Dialog
-import sys
+import sys, os, random
 import json
 from spsch import Scheduler
 from PySide6 import QtWidgets
-import random
 import playback
 
 about_this = \
@@ -205,6 +204,9 @@ def process_text_block(text):
 
 def show_ui(playback_thread, settings):
 	qt_app = QtWidgets.QApplication(sys.argv);
+	if os.path.exists("./style.qss"):
+		with open("./style.qss") as f:
+			qt_app.setStyleSheet(f.read())
 	app = App(playback_thread, settings);
 	app.show();
 	qt_app.exec_();
